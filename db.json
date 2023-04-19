@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "firstname": "swaraj",
+      "lastname": "pandey",
+      "birthdate": "2004-07-16",
+      "gender": "m",
+      "education": "graduate",
+      "company": "brazzers",
+      "jobExperience": 5,
+      "salary": 6,
+      "profile": "i_swa_ra_j-20230419-0001.jpg",
+      "id": 1
+    },
+    {
+      "firstname": "vatsal ",
+      "lastname": "parikh",
+      "birthdate": "2004-02-14",
+      "gender": "",
+      "education": "10th pass",
+      "company": "UTSAH PVT LTD",
+      "jobExperience": 0,
+      "salary": 1,
+      "profile": "vatsal2918-20230419-0001.jpg",
+      "id": 2
+    },
+    {
+      "firstname": "RISHIRAJ",
+      "lastname": "OJHA",
+      "birthdate": "2001-05-08",
+      "gender": "m",
+      "education": "graduate",
+      "company": "Google",
+      "jobExperience": 1,
+      "salary": 5,
+      "profile": "riisshiiiiii-20230419-0001.jpg",
+      "id": 3
+    },
+    {
+      "firstname": "KUNAL",
+      "lastname": "SHARMA",
+      "birthdate": "2004-07-16",
+      "gender": "m",
+      "education": "graduate",
+      "company": "SHARMA ENTERPRISE PVT LTD",
+      "jobExperience": 5,
+      "salary": 10,
+      "profile": "IMG_5694-01.jpeg",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
